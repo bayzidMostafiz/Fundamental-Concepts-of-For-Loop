@@ -75,8 +75,9 @@ for (let i = 1; i <= 50; i++) {
 console.log("Task 10");
 
 for (let i = 1; i <= 50; i++){
-    console.log(i);
+    
     if(i >=30){
         break
     }
+    console.log(i);
 }
